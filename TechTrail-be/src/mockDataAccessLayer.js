@@ -2,7 +2,7 @@ const fs = require('fs').promises;
 const path = require('path');
 const crypto = require('crypto'); // Thư viện có sẵn của Node.js để sinh UUID ngẫu nhiên
 
-const dataPath = path.join(__dirname, 'mockData.json');
+const dataPath = path.join(__dirname, '../data/mockData.json');
 
 class DataAccessLayer {
   constructor() {
