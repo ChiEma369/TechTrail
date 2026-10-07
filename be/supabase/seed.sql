@@ -1,0 +1,2 @@
+-- Dữ liệu mẫu (Seed Data) ban đầu cho Supabase
+-- Thêm các câu lệnh INSERT dữ liệu thử nghiệm tại đây
